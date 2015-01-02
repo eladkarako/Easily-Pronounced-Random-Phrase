@@ -53,4 +53,4 @@
     return mb_substr($seed, 0, $length);
   }
 
-  echo get_random_word(10);
+  echo get_easily_pronounced_random_phrase(10);
